@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Dragonlance Player Resources'
+
+[module]
+    [[module.imports]]
+        path = "github.com/alex-shpak/hugo-book"
+    [[module.imports]]
+        path = "github.com/tnarik/hugo-homebrewery"
+
+[params]
+    BookTheme = "auto"
+    BookToC = true
+    BookComments = false
+    BookSection = "*"
+
+[markup.goldmark.renderer]
+  unsafe = true

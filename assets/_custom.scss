@@ -1,0 +1,69 @@
+@import "phb";
+
+@font-face {
+    font-family: "Bilbo Swash Caps";
+    src: url(fonts/BilboSwashCaps-Regular.ttf);
+}
+
+:root {
+    --black: #000;
+}
+
+.markdown {
+    min-height: 100%;
+
+    .phb:first-child blockquote {
+        margin-top: 0;
+    }
+}
+
+.note {
+    width: 30%;
+    float: right;
+    background-color: var(--gray-200);
+    padding: .5rem 1rem;
+    margin: auto 1rem;
+
+    &.left {
+        float: left;
+        margin-left: 0;
+    }
+
+    &.wide {
+        width: 50%;
+    }
+
+    &:after {
+        clear: both;
+    }
+}
+
+.footer {
+    &>* {
+        margin-right: 1rem;
+
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+}
+
+.markdown pre {
+    code {
+        word-wrap: normal;
+        text-wrap: wrap;
+    }
+
+    &:has(.language-letter) {
+        background-image: url("/assets/parchmentBackground.jpg");
+        clip-path: polygon(98% 95%, 92% 99%, 15% 100%, 6% 99%, 1% 94%, 0% 88%, 1% 15%, 0% 3%, 5% 2%, 16% 1%, 54% 1%, 82% 1%, 83% 2%, 89% 3%, 90% 4%, 94% 6%, 97% 9%, 97% 14%);
+        padding: 3rem;
+
+        code {
+            font-family: 'Bilbo Swash Caps', handwriting;
+            font-size: 2.5rem;
+            color: var(--black);
+            line-height: 1.15;
+        }
+    }
+}

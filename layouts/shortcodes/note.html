@@ -1,0 +1,13 @@
+{{ $width := .Get 0 }}
+{{ $side := .Get 1 }}
+
+{{ if .IsNamedParams }}
+    {{ $width := .Get "width" }}
+    {{ $side := .Get "side" }}
+{{ end }}
+
+{{ printf "<div class=\"note %s %s\">" $width $side | htmlUnescape | safeHTML }}
+
+{{ .Inner }}
+
+{{ printf "</div>" | htmlUnescape | safeHTML }}

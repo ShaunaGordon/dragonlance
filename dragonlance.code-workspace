@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"dmbinder.treeViewStyle": "split",
+		"workbench.colorTheme": "peacocks-in-space"
+	},
+	"extensions": {
+		"recommendations": ["SpjakSoftware.dungeonsandmarkdown", "foam.foam-vscode"],
+		"unwantedRecommendations": []
+	}
+}
