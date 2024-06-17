@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Character Creation on Dragonlance Player Resources</title>
+    <link>https://example.org/character-creation/</link>
+    <description>Recent content in Character Creation on Dragonlance Player Resources</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/character-creation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Race Options</title>
+      <link>https://example.org/character-creation/races/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/character-creation/races/</guid>
+      <description>Race Options # Peoples of Krynn # The mysterious army threatens all the peoples of Krynn, driving them into the cities to seek shelter or help in the defense against this new threat.&#xA;Dwarves Dwarves # While known for their great subterranean nations, dwarves have long traded and traveled among the peoples of Krynn&amp;rsquo;s surface. The Cataclysm devastated many dwarven lands and destroyed some of their greatest underground kingdoms. Others, like the nation of Kayolin, were isolated from their allies as the New Sea flooded the land.</description>
+    </item>
+    <item>
+      <title>Backgrounds</title>
+      <link>https://example.org/character-creation/backgrounds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/character-creation/backgrounds/</guid>
+      <description>Backgrounds # This campaign introduces two unique backgrounds: Knight of Solamnia and Mage of High Sorcery. Be sure to check them out and see if you want to use one.&#xA;Disallowed Backgrounds # Most backgrounds can be made to work, even if they&amp;rsquo;re oddball ones. However, there are a few that are just too out of place to be worth trying to fit in here. These ones are disallowed, no negotiations:</description>
+    </item>
+    <item>
+      <title>Feats</title>
+      <link>https://example.org/character-creation/feats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/character-creation/feats/</guid>
+      <description>Feats # This campaign grants a bonus feat for level 1 &amp;ndash; if you don&amp;rsquo;t choose a background that grants a feat, such as the Knight of Solamnia or Mage of High Sorcery backgrounds from this campaign &amp;ndash; and at level 4. All other prerequisites and feat rules apply.&#xA;Bonus Feats # 1st Level # If your background does not grant a feat, you may choose from the following feats at level 1:</description>
+    </item>
+  </channel>
+</rss>

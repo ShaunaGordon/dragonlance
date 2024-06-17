@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Ansalon on Dragonlance Player Resources</title>
+    <link>https://example.org/life-on-ansalon/</link>
+    <description>Recent content in Life on Ansalon on Dragonlance Player Resources</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/life-on-ansalon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calendar</title>
+      <link>https://example.org/life-on-ansalon/calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/life-on-ansalon/calendar/</guid>
+      <description> Calendar # The lands around Kalaman use the Solamnic calendar, which has twelve months, each containing four weeks. Weeks have seven days, and days have twenty-four hours.&#xA;Solamnic Months # Month Name January Newkolt February Deepkolt March Brookgreen April Yurthgreen May Fleurgreen June Holmswelt July Fierswelt August Paleswelt September Reapember October Gildember November Darkember December Frostkolt Solamnic Days # Day Name Sunday Linaras Monday Palast Tuesday Magetag Wednesday Kirinor Thursday Misham Friday Bakukal Saturday Bracha </description>
+    </item>
+    <item>
+      <title>Currency</title>
+      <link>https://example.org/life-on-ansalon/currency/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/life-on-ansalon/currency/</guid>
+      <description>Currency # Since the Cataclysm, the harsh realities of daily survival leave little room for impracticality. For years after the devastation, steel&amp;rsquo;s value skyrocketed until it was valued as highly as gold, thanks to the difficulty of forging steel and its obvious practical applications. Similarly, bronze was valued on par with silver. While the value of steel and bronze has diminished to pre-Cataclysm standards, trade coins of bronze and steel remain in use across Ansalon.</description>
+    </item>
+    <item>
+      <title>Languages</title>
+      <link>https://example.org/life-on-ansalon/languages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/life-on-ansalon/languages/</guid>
+      <description>Across Ansalon, language is an expression of upbringing and exposure. Before the Cataclysm, Common served as a language of commerce under the empires of Ergoth, Solamnia, and Istar. After the Cataclysm, migrating refugees communicated using Common, and today it&amp;rsquo;s spoken in every corner of the continent. Nevertheless, the local languages of most lands still flourish, and Common is used primarily in markets and in dealings with travelers.&#xA;A Note On Common: Unlike in some settings, where &amp;ldquo;Common&amp;rdquo; is an alias for a region&amp;rsquo;s most widely-spoken language, in Ansalon, Common is its own language, created from an amalgam of the other primary languages used in trade.</description>
+    </item>
+    <item>
+      <title>Organizations</title>
+      <link>https://example.org/life-on-ansalon/organizations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/life-on-ansalon/organizations/</guid>
+      <description>Organizations # In eras past, when Krynn faced times of exceptional darkness, champions stepped forth from the ranks of the virtuous Knights of Solamnia and the mystical Mages of High Sorcery. These two organizations are detailed here.&#xA;Knights of Solamnia # Many celebrated heroes have risen from the Knights of Solamnia, the most storied knighthood on Ansalon. The knighthood began over a thousand years ago, during the reign of the Ergothian Empire in western Ansalon.</description>
+    </item>
+  </channel>
+</rss>

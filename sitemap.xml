@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/character-creation/races/</loc>
+  </url><url>
+    <loc>https://example.org/history-of-krynn/</loc>
+  </url><url>
+    <loc>https://example.org/character-creation/backgrounds/</loc>
+  </url><url>
+    <loc>https://example.org/character-creation/</loc>
+  </url><url>
+    <loc>https://example.org/character-creation/feats/</loc>
+  </url><url>
+    <loc>https://example.org/life-on-ansalon/</loc>
+  </url><url>
+    <loc>https://example.org/reference/</loc>
+  </url><url>
+    <loc>https://example.org/life-on-ansalon/calendar/</loc>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/life-on-ansalon/currency/</loc>
+  </url><url>
+    <loc>https://example.org/life-on-ansalon/languages/</loc>
+  </url><url>
+    <loc>https://example.org/life-on-ansalon/organizations/</loc>
+  </url><url>
+    <loc>https://example.org/life-on-ansalon/religion/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+  </url><url>
+    <loc>https://example.org/</loc>
+  </url>
+</urlset>
