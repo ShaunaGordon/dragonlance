@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # War Comes to Krynn
 
 The world has ended, and it's ending again.
