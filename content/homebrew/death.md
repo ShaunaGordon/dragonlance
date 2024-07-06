@@ -23,4 +23,6 @@ A mage's quick reaction allows them to forcibly return a soul to its body, befor
 
 ## All Other Resurrection Spells
 
-All other resurrection spells require the soul to be willing and able to return from the procession of souls.
+All other resurrection spells require the soul to be willing and able to return from the procession of souls. Petitioners must coax the soul to return by going through the ritual. 
+
+In addition to the material components required by the resurrection ritual, three petitioners plus the acting
