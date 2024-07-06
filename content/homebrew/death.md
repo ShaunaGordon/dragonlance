@@ -19,4 +19,8 @@ Resurrection by divine intervention follows its own rules, on a case by case bas
 
 ## Revivify
 
-A mage's quick reaction allows
+A mage's quick reaction allows them to forcibly return a soul to its body, before it has a chance to leave plane and join the procession of souls. Because of this, the resurrection is guaranteed, but the character's resurrection DC still increases by 1.
+
+## All Other Resurrection Spells
+
+All other resurrection spells require the soul to be willing and able to return from the procession of souls.
