@@ -7,8 +7,7 @@ weight: 2
 
 ## World
 
-![Map of Ansalon](/images/maps/ansalon.webp)
-<figcaption>Ansalon</figcaption>
+[![Map of Ansalon](/images/maps/ansalon.webp)](/images/maps/ansalon.webp)
 
 ## Regional
 
