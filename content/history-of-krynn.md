@@ -1,6 +1,6 @@
 ---
 title: A Brief History of Krynn
-weight: 2
+weight: 3
 ---
 
 # A Brief History of Krynn

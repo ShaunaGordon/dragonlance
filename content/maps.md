@@ -14,5 +14,6 @@ weight: 2
 
 ## City
 
-![Vogler](/images/maps/vogler.webp)
-<figcaption>Vogler</figcaption>
+### Vogler
+
+[![Vogler](/images/maps/vogler.webp)](/images/maps/vogler.webp)

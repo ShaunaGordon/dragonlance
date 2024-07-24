@@ -1,6 +1,7 @@
 ---
 title: Character Creation
-weight: 3
+weight: 4
+bookCollapseSection: true
 ---
 
 # Character Creation

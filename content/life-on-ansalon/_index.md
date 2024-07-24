@@ -1,6 +1,7 @@
 ---
 title: Life on Ansalon
 weight: 3
+bookCollapseSection: true
 ---
 
 # Life on Ansalon

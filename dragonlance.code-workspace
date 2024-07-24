@@ -6,7 +6,7 @@
 	],
 	"settings": {
 		"dmbinder.treeViewStyle": "split",
-		"workbench.colorTheme": "peacocks-in-space"
+		"workbench.colorTheme": "Ilk Theme"
 	},
 	"extensions": {
 		"recommendations": ["SpjakSoftware.dungeonsandmarkdown", "foam.foam-vscode"],

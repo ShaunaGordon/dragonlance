@@ -1,5 +1,7 @@
 ---
 title: Homebrew
+weight: 3
+bookCollapseSection: true
 ---
 
 # Homebrew
