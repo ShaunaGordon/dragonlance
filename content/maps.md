@@ -16,3 +16,7 @@ weight: 2
 ### Vogler
 
 [![Vogler](/images/maps/vogler.webp)](/images/maps/vogler.webp)
+
+#### High Hill
+
+[![High Hill](/images/maps/high-hill.webp)](/images/maps/high-hill.webp)
